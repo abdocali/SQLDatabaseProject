@@ -75,4 +75,11 @@
   <ItemGroup>
     <None Include="Environment\Local\Local.publish.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Programmability\Stored Procedures\storedprocedure.sql" />
+    <Build Include="Security\Roles\DatabaseRole.sql" />
+    <Build Include="Security\Schemas\testschema.sql" />
+    <Build Include="Tables\TestTable.sql" />
+    <Build Include="Views\TestView.sql" />
+  </ItemGroup>
 </Project>
