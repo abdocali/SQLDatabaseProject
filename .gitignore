@@ -2,3 +2,5 @@
 /.vs/*
 /obj/Debug/*
 /SQLDatabaseProject.sqlproj.user
+/obj/Release
+/bin
