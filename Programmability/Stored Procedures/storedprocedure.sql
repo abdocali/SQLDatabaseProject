@@ -3,5 +3,6 @@
 	@param2 int
 AS
 	SET NOCOUNT ON;
-	SELECT @param1, @param2
+	SELECT @param1, @param2;
+	select @@rowcount;
 RETURN 0
